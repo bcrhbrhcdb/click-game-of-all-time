@@ -1,4 +1,13 @@
 {
+  "name": "Clicker Game of All Time",
+  "author": "Alex",
+  "description": "clicker gaem",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johndoe/my-website.git"
+  },
   "scripts": {
     "start": "servor --reload"
   },
